@@ -1,7 +1,7 @@
-site_name: obsidian-mkdocs template
+site_name: Base de Datos
 
 theme:
-    name: 'material'
+    name: 'gitbook'
     palette:
 
     # Light mode
